@@ -1,0 +1,163 @@
+{
+    "1": {
+      "name": "Service Road West",
+      "node1": "26 Number Chungi",
+      "node2": "G-13 Markaz",
+      "traffic_intensity": 65,
+      "distance": 5
+    },
+    "2": {
+      "name": "N5 National Highway",
+      "node1": "26 Number Chungi",
+      "node2": "Saddar",
+      "traffic_intensity": 55,
+      "distance": 10
+    },
+    "3": {
+      "name": "Srinagar Highway NUST",
+      "node1": "26 Number Chungi",
+      "node2": "NUST",
+      "traffic_intensity": 55,
+      "distance": 10
+    },
+    "4": {
+      "name": "Service Road South",
+      "node1": "G-13 Markaz",
+      "node2": "G-11 Markaz",
+      "traffic_intensity": 75,
+      "distance": 2
+    },
+    "5": {
+      "name": "Major Aziz Bhatti Shaheed Road",
+      "node1": "G-11 Markaz",
+      "node2": "G-10 Markaz",
+      "traffic_intensity": 75,
+      "distance": 2
+    },
+    "6": {
+      "name": "Margalla Road",
+      "node1": "G-11 Markaz",
+      "node2": "F-11 Markaz",
+      "traffic_intensity": 60,
+      "distance": 1
+    },
+    "7": {
+      "name": "Service Road North",
+      "node1": "F-11 Markaz",
+      "node2": "F-10 Markaz",
+      "traffic_intensity": 75,
+      "distance": 2
+    },
+    "8": {
+      "name": "Khawaja Nizam Ud Din Road",
+      "node1": "F-10 Markaz",
+      "node2": "G-10 Markaz",
+      "traffic_intensity": 75,
+      "distance": 1
+    },
+    "9": {
+      "name": "Iran Avenue",
+      "node1": "F-11 Markaz",
+      "node2": "E-11 Markaz",
+      "traffic_intensity": 75,
+      "distance": 4
+    },
+    "10": {
+      "name": "Jinnah Avenue",
+      "node1": "F-10 Markaz",
+      "node2": "F-8 Markaz",
+      "traffic_intensity": 55,
+      "distance": 4.0
+    },
+    "11": {
+      "name": "Faisal Avenue",
+      "node1": "G-10 Markaz",
+      "node2": "F-8 Markaz",
+      "traffic_intensity": 65,
+      "distance": 6.0
+    },
+    "12": {
+      "name": "Khayaban e Iqbal",
+      "node1": "F-8 Markaz",
+      "node2": "Hiking Trail 4",
+      "traffic_intensity": 55,
+      "distance": 6.0
+    },
+    "13": {
+      "name": "Constitutional Avenue",
+      "node1": "F-8 Markaz",
+      "node2": "D Chowk",
+      "traffic_intensity": 65,
+      "distance": 4.0
+    },
+    "14": {
+      "name": "Srinagar Highway D Chowk",
+      "node1": "NUST H-12",
+      "node2": "D Chowk",
+      "traffic_intensity": 45,
+      "distance": 9.0
+    },
+    "15": {
+      "name": "N-75",
+      "node1": "D Chowk",
+      "node2": "Banigala",
+      "traffic_intensity": 65,
+      "distance": 9.0
+    },
+    "16": {
+      "name": "Iqbal Town Road",
+      "node1": "Banigala",
+      "node2": "Bahria Town",
+      "traffic_intensity": 70,
+      "distance": 4.0
+    },
+    "17": {
+      "name": "Islamabad Expy 1",
+      "node1": "D Chowk",
+      "node2": "Bahria Town",
+      "traffic_intensity": 55,
+      "distance": 7.0
+    },
+    "18": {
+      "name": "Islamabad Expy 2",
+      "node1": "Bahria Town",
+      "node2": "DHA",
+      "traffic_intensity": 55,
+      "distance": 9.0
+    },
+    "19": {
+      "name": "Park Road",
+      "node1": "Lake View Park",
+      "node2": "Bahria Town",
+      "traffic_intensity": 68,
+      "distance": 2.0
+    },
+    "20": {
+      "name": "Old Airport Road",
+      "node1": "Chaklala",
+      "node2": "DHA",
+      "traffic_intensity": 78,
+      "distance": 3.0
+    },
+    "21": {
+      "name": "N-5 2",
+      "node1": "Saddar",
+      "node2": "Chaklala",
+      "traffic_intensity": 60,
+      "distance": 2.0
+    },
+    "22": {
+      "name": "Stadium Road",
+      "node1": "Saddar",
+      "node2": "Pindi Cricket Stadium",
+      "traffic_intensity": 70,
+      "distance": 2.0
+    },
+    "23": {
+      "name": "IJP Road",
+      "node1": "Saddar",
+      "node2": "NUST H-12",
+      "traffic_intensity": 65,
+      "distance": 4.0
+    }
+  }
